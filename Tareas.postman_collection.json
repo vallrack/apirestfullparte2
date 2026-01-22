@@ -1,0 +1,58 @@
+{
+	"info": {
+		"name": "Gestión de Tareas API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Crear Tarea",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Estudiar API REST\",\r\n    \"description\": \"Completar la actividad de la universidad\"\r\n}",
+					"options": { "raw": { "language": "json" } }
+				},
+				"url": { "raw": "http://localhost:5000/api/tareas" }
+			}
+		},
+		{
+			"name": "Obtener Todas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": { "raw": "http://localhost:5000/api/tareas" }
+			}
+		},
+		{
+			"name": "Editar Tarea",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Estudiar API REST (Editado)\",\r\n    \"description\": \"Nueva descripción de la tarea\"\r\n}",
+					"options": { "raw": { "language": "json" } }
+				},
+				"url": { "raw": "http://localhost:5000/api/tareas/1" }
+			}
+		},
+		{
+			"name": "Completar Tarea",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"url": { "raw": "http://localhost:5000/api/tareas/1/completar" }
+			}
+		},
+		{
+			"name": "Eliminar Tarea",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": { "raw": "http://localhost:5000/api/tareas/1" }
+			}
+		}
+	]
+}

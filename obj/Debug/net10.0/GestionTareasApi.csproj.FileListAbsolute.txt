@@ -1,0 +1,69 @@
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\GestionTareasApi.csproj.AssemblyReference.cache
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\GestionTareasApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\GestionTareasApi.AssemblyInfoInputs.cache
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\GestionTareasApi.AssemblyInfo.cs
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\GestionTareasApi.csproj.CoreCompileInputs.cache
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\GestionTareasApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\GestionTareasApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DOCENTE\Desktop\GestionTareasApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\DOCENTE\Desktop\GestionTareasApi\bin\Debug\net10.0\appsettings.json
+C:\Users\DOCENTE\Desktop\GestionTareasApi\bin\Debug\net10.0\GestionTareasApi.staticwebassets.endpoints.json
+C:\Users\DOCENTE\Desktop\GestionTareasApi\bin\Debug\net10.0\GestionTareasApi.exe
+C:\Users\DOCENTE\Desktop\GestionTareasApi\bin\Debug\net10.0\GestionTareasApi.deps.json
+C:\Users\DOCENTE\Desktop\GestionTareasApi\bin\Debug\net10.0\GestionTareasApi.runtimeconfig.json
+C:\Users\DOCENTE\Desktop\GestionTareasApi\bin\Debug\net10.0\GestionTareasApi.dll
+C:\Users\DOCENTE\Desktop\GestionTareasApi\bin\Debug\net10.0\GestionTareasApi.pdb
+C:\Users\DOCENTE\Desktop\GestionTareasApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DOCENTE\Desktop\GestionTareasApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\scopedcss\bundle\GestionTareasApi.styles.css
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\GestionT.627B7885.Up2Date
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\GestionTareasApi.dll
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\refint\GestionTareasApi.dll
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\GestionTareasApi.pdb
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\GestionTareasApi.genruntimeconfig.cache
+C:\Users\DOCENTE\Desktop\GestionTareasApi\obj\Debug\net10.0\ref\GestionTareasApi.dll
+C:\Users\DOCENTE\Desktop\GestionTareasApi\bin\Debug\net10.0\Tareas.postman_collection.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\GestionTareasApi.csproj.AssemblyReference.cache
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\GestionTareasApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\GestionTareasApi.AssemblyInfoInputs.cache
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\GestionTareasApi.AssemblyInfo.cs
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\GestionTareasApi.csproj.CoreCompileInputs.cache
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\GestionTareasApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\GestionTareasApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\GestionTareasApi.dll
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\refint\GestionTareasApi.dll
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\GestionTareasApi.pdb
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\bin\Debug\net10.0\appsettings.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\bin\Debug\net10.0\Tareas.postman_collection.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\bin\Debug\net10.0\GestionTareasApi.staticwebassets.endpoints.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\bin\Debug\net10.0\GestionTareasApi.exe
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\bin\Debug\net10.0\GestionTareasApi.deps.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\bin\Debug\net10.0\GestionTareasApi.runtimeconfig.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\bin\Debug\net10.0\GestionTareasApi.dll
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\bin\Debug\net10.0\GestionTareasApi.pdb
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\scopedcss\bundle\GestionTareasApi.styles.css
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\GestionT.627B7885.Up2Date
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\GestionTareasApi.genruntimeconfig.cache
+C:\Users\DOCENTE\Documents\electiva2\GestionTareasApi - Actividad 2\obj\Debug\net10.0\ref\GestionTareasApi.dll
